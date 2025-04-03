@@ -4,7 +4,7 @@
 :: Realiza una lectura de la página
 :: Realiza una lectura de archivos csv
 :: Realiza un print con la información buscada
-Hecho por Felipe.
+Hecho por Felipe. (FECORO)
 """
 #....STACK....
 import rpa as r #el unico e inigualable
